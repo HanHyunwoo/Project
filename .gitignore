@@ -59,6 +59,7 @@ vignettes/*.pdf
 
 # Package Files #
 *.jar
+ojdbc6.!
 *.war
 *.ear
 *.zip
